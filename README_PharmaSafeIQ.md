@@ -155,8 +155,6 @@ PharmaSafeIQ/
 4. Open `fetal_yaer.pbix` in Power BI Desktop and, if asked, point the data source to the folder with the SQL result tables.
 
 ## ⚠️ Limitations
-
-- The data is a **sample** (exactly 48,000 reports per year), not the complete FAERS database.
 - Fatality rate is the share of **reports** that were fatal. The data has no count of how many people take each drug, so this is a reporting-based signal and not the true risk of a drug.
 - Some `suspect_drug` and `manufacturer` values are several names joined by `;`, so combinations are grouped as one entry.
 - A manufacturer's rank can come from one drug (Acadia and Pimavanserin share the same 1,605 fatal reports).
