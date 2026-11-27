@@ -129,7 +129,7 @@ Cards for Total Reports, Fatal Rate %, Serious Rate % and Peak Fatal Year. Chart
 
 Cards for Top Risk Drug, Top Risk Manufacturer and Top Country by Reports. Charts: top 10 drugs by fatality rate, manufacturer fatality rate vs industry average, countries by number of reports, and a country-wise risk summary table. Filter: Country dropdown slicer.
 
-![Dashboard Page 2](
+![Dashboard Page 2](drug_manufature.png)
 
 ## 🗂️ Folder Structure
 
