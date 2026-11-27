@@ -123,13 +123,13 @@ Findings from the five SQL questions (528,000 reports, 2015–2025). Fatality ra
 
 Cards for Total Reports, Fatal Rate %, Serious Rate % and Peak Fatal Year. Charts: fatality rate by drug count and age group, annual fatal reports trend, and serious vs fatal rate line chart. Filter: Year dropdown slicer.
 
-![Dashboard Page 1](images/dashboard_page1.png)
+![Dashboard Page 1](safety_trends.png)
 
 **Page 2: Drug, Manufacturer & Country Risk**
 
 Cards for Top Risk Drug, Top Risk Manufacturer and Top Country by Reports. Charts: top 10 drugs by fatality rate, manufacturer fatality rate vs industry average, countries by number of reports, and a country-wise risk summary table. Filter: Country dropdown slicer.
 
-![Dashboard Page 2](images/dashboard_page2.png)
+![Dashboard Page 2](
 
 ## 🗂️ Folder Structure
 
